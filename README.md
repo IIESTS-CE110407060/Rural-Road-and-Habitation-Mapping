@@ -1,5 +1,5 @@
 # Rural Road and Habitation Mapping
-Dec 20, 2010
+S. Alam, S. Saha, S. Biswas. Published on Dec 20, 2010.
 
 ## Results 
 
